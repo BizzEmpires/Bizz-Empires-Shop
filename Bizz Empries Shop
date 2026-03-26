@@ -1,0 +1,32 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bizz Empires</title>
+</head>
+<body style="font-family: Arial; padding:20px;">
+
+<h1>Bizz Empires</h1>
+<p>Kapenguria, West Pokot - Bendera</p>
+<p>WhatsApp: 0768563233</p>
+<p>Email: nichotieno08@gmail.com</p>
+
+<h2>Products</h2>
+
+<h3>Floral Dress - KSh 1500</h3>
+<img src="https://images.unsplash.com/photo-1520962918287-7448c2878f65" width="200">
+
+<h3>Black Top - KSh 900</h3>
+<img src="https://images.unsplash.com/photo-1520975922284-9d9f5b7a0b76" width="200">
+
+<h3>Hoodie - KSh 1800</h3>
+<img src="https://images.unsplash.com/photo-1512436991641-6745cdb1723f" width="200">
+
+<br><br>
+
+<a href="https://wa.me/254768563233">
+<button>Order on WhatsApp</button>
+</a>
+
+</body>
+</html>
